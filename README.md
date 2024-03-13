@@ -1,4 +1,8 @@
-### Hi there 👋
+# Who are you?
+TDD(Team-Driven Development) Spring Boot(Java) 개발자 정준원입니다. 자기 객관화를 중요시하고 알찬 사람이 되기 위해 항상 내실을 다지려 노력하는 성장형 인재입니다. 🙂
+
+<a href="https://dev-won0313.tistory.com/"><img src="https://img.shields.io/badge/Tistory Blog-EB531F?style=flat-square&logo=tistory&logoColor=#EA4335"/></a>
+
 
 ![JunWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdwnsdnjs13&show_icons=true&theme=onedark) 
 
