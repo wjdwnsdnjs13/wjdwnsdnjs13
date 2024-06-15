@@ -5,7 +5,7 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 **정준원**입�
 <a href="https://dev-won0313.tistory.com/"><img src="https://img.shields.io/badge/Tistory Blog-EB531F?style=flat-square&logo=tistory&logoColor=#EA4335"/></a>
 
 # 🏫Organization history
- - [디프만 15기 서버](https://www.depromeet.com/) (2024.06 ~ )
+ - [디프만 15기 Server Developer](https://www.depromeet.com/) (2024.06 ~ )
  - [한이음 ICT 멘토링](https://www.hanium.or.kr/portal/index.do) (2023.04 ~ 2024.12)
 
 
