@@ -6,7 +6,7 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 **정준원**입�
 
 # 🏫Organization history
  - [디프만 15기 Server Developer](https://www.depromeet.com/) (2024.06 ~ )
- - [한이음 ICT 멘토링](https://www.hanium.or.kr/portal/index.do) (2023.04 ~ 2024.12)
+ - [한이음 ICT 멘토링](https://www.hanium.or.kr/portal/index.do) (2023.04 ~ 2023.12)
 
 
 # 💬Conference history
@@ -15,7 +15,7 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 **정준원**입�
 
 # 🏆Award history
  - 🥈AWS 리빙랩 글로컬 해커톤 최우수상
-    - 약관 요약 서비스
+    - ChatGPT를 활용한 약관 요약 서비스
  - 🥉제 3회 경남 소프트웨어경진대회 우수상
     - QR 코드를 활용한 주문 서비스, 'QROrder'
  - 🥉2023 제조 빅데이터 분석 경진대회 장려상
