@@ -14,6 +14,8 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 **정준원**입�
    - ['전지적 신입 백엔드 시점' 후기](https://dev-won0313.tistory.com/entry/AWS-Student-Community-Day-2024-%EC%97%B0%EC%82%AC-%EC%B0%B8%EC%97%AC)
 
 # 🏆Award history
+ - 🥇IT 연합 동아리 디프만 15기 대상
+    - 내가 만들어가는 야구장 시야 서비스, 'SPOT!'
  - 🥈AWS 리빙랩 글로컬 해커톤 최우수상
     - ChatGPT를 활용한 약관 요약 서비스
  - 🥉제 3회 경남 소프트웨어경진대회 우수상
@@ -33,9 +35,9 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 **정준원**입�
 
 # 🛠️Tech Stack
 ## Language
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=coffeescript&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Python-cyan?style=for-the-badge&logo=Python&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black" height="26"/>
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=coffeescript&logoColor=white" height="26" float="left"/>
+<img src="https://img.shields.io/badge/Python-cyan?style=for-the-badge&logo=Python&logoColor=white" height="26" float="left"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black" height="26" float="left"/>
 
 ## Back-End
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="26"/>
