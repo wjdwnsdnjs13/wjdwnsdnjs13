@@ -35,26 +35,33 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 **정준원**입�
 
 # 🛠️Tech Stack
 ## Language
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=coffeescript&logoColor=white" height="26" float="left"/>
-<img src="https://img.shields.io/badge/Python-cyan?style=for-the-badge&logo=Python&logoColor=white" height="26" float="left"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black" height="26" float="left"/>
+<div style="display: flex; align-items: flex-start;">
+   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=coffeescript&logoColor=white" height="26"/>
+   <img src="https://img.shields.io/badge/Python-cyan?style=for-the-badge&logo=Python&logoColor=white" height="26" style="margin-left:10px"/>
+   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black" height="26" style="margin-left:10px"/>
+</div>
 
 ## Back-End
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/MyBatis-6DB33F?style=for-the-badge&logo=IBatis&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Swagger-6DB33F?style=for-the-badge&logo=Swagger&logoColor=white" height="26"/>
+<div style="display: flex; align-items: flex-start;">
+   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="26"/>
+   <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=for-the-badge&logo=IBatis&logoColor=white" height="26" style="margin-left:10px"/>
+   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white" height="26" style="margin-left:10px"/>
+   <img src="https://img.shields.io/badge/Swagger-6DB33F?style=for-the-badge&logo=Swagger&logoColor=white" height="26" style="margin-left:10px"/>
+</div>
 
 ## Front-End
-<img src="https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=React&logoColor=white" height="26"/>
+<div style="display: flex; align-items: flex-start;">
+   <img src="https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=React&logoColor=white" height="26"/>
+</div>
 
 ## ETC.
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" height="26"/>
+<div style="display: flex; align-items: flex-start;">
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="26"/>
+   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" height="26" style="margin-left:10px"/>
+   <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=AWSCloud&logoColor=white" height="26" style="margin-left:10px"/>
+   <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazon%20ec2&logoColor=white" height="26" style="margin-left:10px"/>
+</div>
 <br />
-<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=AWSCloud&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazon%20ec2&logoColor=white" height="26"/>
-
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwnsdnjs13&hide=html&layout=compact&theme=onedark) &nbsp;&nbsp; ![JunWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdwnsdnjs13&count_private=true&show_icons=true&theme=onedark) 
