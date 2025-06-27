@@ -16,6 +16,7 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 [**정준원**](h
 - AWS Student Community Day 2024 연사
    - ['전지적 신입 백엔드 시점' 후기](https://dev-won0313.tistory.com/entry/AWS-Student-Community-Day-2024-%EC%97%B0%EC%82%AC-%EC%B0%B8%EC%97%AC)
 - 2024 GIST Developers' Night 연사
+   - [2024 GIST Developers' Night 연사 후기](https://dev-won0313.tistory.com/entry/2024-GIST-Developers-Night-%EC%97%B0%EC%82%AC-%ED%9B%84%EA%B8%B0)
 
 # 🏆Award history
 - 🥇2025 DND 해커톤 대상
