@@ -1,5 +1,5 @@
 # ✨Who Am I ❔ ✨
-TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 **정준원**입니다. 자기 객관화를 중요시하고 알찬 사람이 되기 위해 항상 내실을 다지려 노력하는 성장형 인재입니다. 🙂
+TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 [**정준원**](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&pkid=1&os=32825137&qvt=0&query=%EC%A0%95%EC%A4%80%EC%9B%90)입니다. 자기 객관화를 중요시하고 알찬 사람이 되기 위해 항상 내실을 다지려 노력하는 성장형 인재입니다. 🙂
 
 # 🌐Socials
 <a href="https://dev-won0313.tistory.com/"><img src="https://img.shields.io/badge/Tistory Blog-EB531F?style=flat-square&logo=tistory&logoColor=#EA4335"/></a>
@@ -15,7 +15,8 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 **정준원**입�
 
 # 🏆Award history
  - 🥇IT 연합 동아리 디프만 15기 대상
-    - 내가 만들어가는 야구장 시야 서비스, 'SPOT!'
+    - [내가 만들어가는 야구장 시야 서비스, 'SPOT!'](https://github.com/depromeet/SPOT-server)
+    - [비핸스 링크](https://www.behance.net/gallery/207588847/SPOT-My-BallPark-Seat-View-Service)
  - 🥈AWS 리빙랩 글로컬 해커톤 최우수상
     - ChatGPT를 활용한 약관 요약 서비스
  - 🥉제 3회 경남 소프트웨어경진대회 우수상
