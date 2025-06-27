@@ -5,15 +5,20 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 [**정준원**](h
 <a href="https://dev-won0313.tistory.com/"><img src="https://img.shields.io/badge/Tistory Blog-EB531F?style=flat-square&logo=tistory&logoColor=#EA4335"/></a>
 
 # 🏫Organization history
- - [디프만 15기 Server Developer](https://www.depromeet.com/) (2024.06 ~ )
- - [한이음 ICT 멘토링](https://www.hanium.or.kr/portal/index.do) (2023.04 ~ 2023.12)
+- [디프만 16기 운영진](https://www.depromeet.com/) (2024.09 ~ 2025.04)
+- 글또 10기 (2024.09 ~ 2025.03)
+- [디프만 15기 Server Developer](https://www.depromeet.com/) (2024.06 ~ 2024.09)
+- [한이음 ICT 멘토링](https://www.hanium.or.kr/portal/index.do) (2023.04 ~ 2023.12)
 
 
 # 💬Conference history
- - AWS Student Community Day 2024 연사
+- AWS Student Community Day 2024 연사
    - ['전지적 신입 백엔드 시점' 후기](https://dev-won0313.tistory.com/entry/AWS-Student-Community-Day-2024-%EC%97%B0%EC%82%AC-%EC%B0%B8%EC%97%AC)
+- 2024 GIST Developers' Night 연사
 
 # 🏆Award history
+- 🥇2025 DND 해커톤 대상
+    - 동네의 특정 장소에 나의 이야기를 기록하거나, 기록된 이야기를 둘러보는 서비스, '동네왔수다'
  - 🥇IT 연합 동아리 디프만 15기 대상
     - [내가 만들어가는 야구장 시야 서비스, 'SPOT!'](https://github.com/depromeet/SPOT-server)
     - [비핸스 링크](https://www.behance.net/gallery/207588847/SPOT-My-BallPark-Seat-View-Service)
