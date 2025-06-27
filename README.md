@@ -7,6 +7,7 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 [**정준원**](h
 # 🏫Organization history
 - [디프만 16기 운영진](https://www.depromeet.com/) (2024.09 ~ 2025.04)
 - 글또 10기 (2024.09 ~ 2025.03)
+  - [후기 글](https://dev-won0313.tistory.com/entry/%EA%B8%80%EB%98%90-10%EA%B8%B0-%ED%9B%84%EA%B8%B0-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9D%84-%ED%95%A8%EA%BB%98-%EC%A6%90%EA%B1%B0%EC%9A%B4-%EC%B6%94%EC%96%B5%EC%9D%84-%EB%82%A8%EA%B8%B0%EB%A9%B0)
 - [디프만 15기 Server Developer](https://www.depromeet.com/) (2024.06 ~ 2024.09)
 - [한이음 ICT 멘토링](https://www.hanium.or.kr/portal/index.do) (2023.04 ~ 2023.12)
 
@@ -18,7 +19,8 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 [**정준원**](h
 
 # 🏆Award history
 - 🥇2025 DND 해커톤 대상
-    - 동네의 특정 장소에 나의 이야기를 기록하거나, 기록된 이야기를 둘러보는 서비스, '동네왔수다'
+    - [동네의 특정 장소에 나의 이야기를 기록하거나, 기록된 이야기를 둘러보는 서비스, '동네왔수다'](https://github.com/dnd-over-time/over-time-server)
+    - [후기 글](https://dev-won0313.tistory.com/entry/2025-DND-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0)
  - 🥇IT 연합 동아리 디프만 15기 대상
     - [내가 만들어가는 야구장 시야 서비스, 'SPOT!'](https://github.com/depromeet/SPOT-server)
     - [비핸스 링크](https://www.behance.net/gallery/207588847/SPOT-My-BallPark-Seat-View-Service)
