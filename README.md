@@ -73,7 +73,7 @@ TDD(_**Team**_-Driven Development) Spring Boot(Java) 개발자 [**정준원**](h
 <br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwnsdnjs13&hide=html&layout=compact&theme=onedark) &nbsp;&nbsp; ![JunWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdwnsdnjs13&count_private=true&show_icons=true&theme=onedark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwnsdnjs13&hide=html&layout=compact&theme=onedark) &nbsp;&nbsp; ![JunWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdwnsdnjs13&count_private=true&include_all_commits=true&show_icons=true&theme=onedark) 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wjdwnsdnjs13)](https://solved.ac/wjdwnsdnjs13)
 
